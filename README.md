@@ -224,10 +224,12 @@ jupyter notebook
 **Ajay Kumar**
 
 🎓 B.Tech – Artificial Intelligence & Machine Learning
+**Email:-ajay62015k@gmail.com
+**Linkedin Id:-www.linkedin.com/in/ajay7209
 
 📊 Aspiring Data Analyst
 
-💻 Python | SQL | Power BI | Data Analysis
+
 
 ---
 
